@@ -45,4 +45,3 @@ rate — this divergence warrants manual review before deal finalisation
 3. Weight acquisition budget toward titles with review periods over 365 days 
 to minimise engagement risk
 
-## Repository Structure
